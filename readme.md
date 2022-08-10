@@ -1,31 +1,11 @@
-# PROJECT 15
+# Portfolio website
 
-### ALL ABOUT PROJECT 15
+### ALL ABOUT Portfolio website.
 
->HTML
-
-- In the *index.html* file i divided the structure into different parts .
-
-- Navbar
+ >In Navigation bar i have created dropdown of my all 15 project link.
  
-  in this section i code for the navbar link for the user
-
-- section-1
-  
-  in this section i used image and some content to explain about the subject
-
-similarly i used section-2 section-3 to structure the code properly so that other can easily understand my code
-
-finally i used  *footer* to code for the footer.
-
-> CSS
-
-In style.css file i write all the code for the styling . 
-
-- i totally avoid inline & internal styling methods in this project 15 
-
-- i have used different selectors & classes to target the elements and style them as per the designs .
-
-> Images Folder
-
-- It contains all the project images & icons .
+ * you can see my all project by clicking on dropdown project number that you want to see.
+ 
+ * On clicking Download cv you will get my downloaded cv in your system.
+ 
+ * In bottom section you can see my first six projects image.
