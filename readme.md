@@ -1,6 +1,6 @@
-# PROJECT 15
+# Portfolio Website
 
-### ALL ABOUT PROJECT 15
+### ALL ABOUT Portfolio website
 
 >HTML
 
@@ -28,4 +28,4 @@ In style.css file i write all the code for the styling .
 
 > Images Folder
 
-- It contains all the project images & icons .
+- It contains all the images & icons .
