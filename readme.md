@@ -26,6 +26,8 @@ In style.css file i write all the code for the styling .
 
 - i have used different selectors & classes to target the elements and style them as per the designs .
 
+In responsive.css file i have written media query
+
 > Images Folder
 
 - It contains all the images & icons .
